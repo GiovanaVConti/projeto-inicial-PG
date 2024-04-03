@@ -10,3 +10,8 @@ nav {
 .conteudo {
     line-height: 1.5;
 }
+form {
+    border-width: 1px;
+    color: gray;
+    padding: 10px auto;
+}
