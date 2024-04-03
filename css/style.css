@@ -4,3 +4,6 @@ h1, h2 {
 nav { 
     font-weight: 700;
 }
+.container {
+    margin: 20px auto;
+}
